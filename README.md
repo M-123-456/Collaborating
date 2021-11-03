@@ -3,6 +3,8 @@
 Mehmet Cetinkaya
 Geb. 11.07.1980 in Berlin
 
+Änderung
+
 # Rezept Pizza
 
 ## Zubereitung
@@ -35,16 +37,12 @@ Algorithmen bestehen aus endlich vielen, wohldefinierten Einzelschritten.
 Damit können sie zur Ausführung in ein Computerprogramm implementiert, aber auch in menschlicher Sprache formuliert werden.
 Bei der Problemlösung wird eine bestimmte Eingabe in eine bestimmte Ausgabe überführt.
 
-## KISS-Prinzip
-
-Das KISS-Prinzip (englisch Keep it simple, stupid) fordert, zu einem Problem eine möglichst einfache Lösung anzustreben.
-
-In seiner Grundaussage ähnelt das KISS-Prinzip stark der Aussage von Ockhams Rasiermesser: Wenn es mehrere Erklärungen für einen bestimmten Sachverhalt gibt, dann ist diejenige Erklärung zu bevorzugen, die am einfachsten ist, also mit den wenigsten Annahmen und Variablen auskommt. Es handelt sich hierbei auch um ein Prinzip von Clean Code.
-
 # Biografie
 
 Miki Gerlach
 Geboren in Tokyo am 04.03.1986
+
+===
 
 # Rezepte
 
