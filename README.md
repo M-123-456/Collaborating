@@ -46,7 +46,7 @@ In seiner Grundaussage ähnelt das KISS-Prinzip stark der Aussage von Ockhams Ra
 Miki Gerlach
 Geboren in Tokyo am 04.03.1986
 
-# Rezept
+# Rezepte
 
 ## Pfannkuchen:
 
