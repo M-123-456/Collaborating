@@ -28,7 +28,7 @@ Am besten gelingt die Pizza, wenn man den Ofen sehr gut auf der höchstmögliche
 - Prise(n) Zucker
 - 925 g Mehl, glattes
 
-# Definition
+# Definitionen
 
 ## Algorithmus
 
@@ -42,7 +42,9 @@ Bei der Problemlösung wird eine bestimmte Eingabe in eine bestimmte Ausgabe üb
 Miki Gerlach
 Geboren in Tokyo am 04.03.1986
 
-# Rezept
+===
+
+# Rezepte
 
 ## Pfannkuchen:
 
